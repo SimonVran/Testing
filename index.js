@@ -1,5 +1,5 @@
 const { Client, Events, IntentsBitField, messageLink, GatewayIntentBits } = require('discord.js');
-const token = "MTEwOTIxODI5OTIxNDA0OTMzMg.GcEymO.UYXtRsd8LmInIb_82pixEjJaGRYCX5DpqnpY8I";
+const token = "**";
 const prefix = "+"
 const ytdl = require("ytdl-core")
 const { joinVoiceChannel, getVoiceConnection, createAudioPlayer, NoSubscriberBehavior, createAudioResource } = require('@discordjs/voice');
